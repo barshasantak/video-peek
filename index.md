@@ -1,14 +1,14 @@
 <!-- =========================================================================
-     VIDEOPEEK PUBLIC WEBSITE
+     VIDEO-PEEK PUBLIC WEBSITE
      Design by Tara Design Studio
 ========================================================================= -->
 
 
 ## 🎥 The Hero Section
-![VideoPeek](https://raw.githubusercontent.com/barshasantak/videopeek/main/VideoPeek_256.png)
+![Video-Peek](https://raw.githubusercontent.com/barshasantak/video-peek/main/VideoPeek_256.png)
 <br>
   
-### See Beneath the Frame with VideoPeek. 
+### See Beneath the Frame with Video-Peek. 
 The native, studio-grade video specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
   
 
@@ -31,7 +31,7 @@ The native, studio-grade video specification analyzer and side-by-side A-B diff 
 
 ## 📖 The Product Story
 
-### *Why we built VideoPeek*
+### *Why we built Video-Peek*
 
 In digital cinema, broadcast mastering, color grading, and streaming delivery, video workflows are more complex than ever:
 
@@ -42,7 +42,7 @@ In digital cinema, broadcast mastering, color grading, and streaming delivery, v
 
 We asked a simple question: **What if you had a blazing-fast, visually pristine Mac app that reveals the complete DNA of any video file in under 200 milliseconds?**
 
-VideoPeek was created to answer that need. Built from the ground up in 100% native Swift and SwiftUI, VideoPeek taps directly into Apple’s low-level `CoreMedia`, `AVFoundation`, `VideoToolbox`, and `CryptoKit` frameworks. No web runtimes. No GPU memory exhaustion. Just pure, instant video intelligence.
+Video-Peek was created to answer that need. Built from the ground up in 100% native Swift and SwiftUI, Video-Peek taps directly into Apple’s low-level `CoreMedia`, `AVFoundation`, `VideoToolbox`, and `CryptoKit` frameworks. No web runtimes. No GPU memory exhaustion. Just pure, instant video intelligence.
 
 
 ## ⚡ Key Features
@@ -55,7 +55,7 @@ VideoPeek was created to answer that need. Built from the ground up in 100% nati
     </td>
     <td width="50%" valign="top">
       <h3>⚖️ Side-by-Side A-B Video Comparator</h3>
-      <p>Compare two video files simultaneously. VideoPeek aligns property keys and instantly highlights resolution scaling, color gamut drops, chroma downgrades, and missing audio tracks.</p>
+      <p>Compare two video files simultaneously. Video-Peek aligns property keys and instantly highlights resolution scaling, color gamut drops, chroma downgrades, and missing audio tracks.</p>
     </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ VideoPeek was created to answer that need. Built from the ground up in 100% nati
 
 ## 🎯 Universal Container & Codec Support
 
-VideoPeek parses uncompressed cinema masters, broadcast containers, and web streams:
+Video-Peek parses uncompressed cinema masters, broadcast containers, and web streams:
 
 | Category | Supported Containers & Codecs |
 | :--- | :--- |
@@ -93,16 +93,16 @@ VideoPeek parses uncompressed cinema masters, broadcast containers, and web stre
 | **Subtitles & Timecodes** | **SMPTE Timecode Tracks**, **CEA-608 / CEA-708 Closed Captions**, **TX3G**, **WebVTT** |
 
 
-## 🏆 Why VideoPeek is Different
+## 🏆 Why Video-Peek is Different
 
-Most diagnostic utilities are bloated ports. VideoPeek is built exclusively for macOS:
+Most diagnostic utilities are bloated ports. Video-Peek is built exclusively for macOS:
 
 <div style="overflow-x: auto; margin: 24px 0;">
   <table style="width: 100%; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 0.9rem; text-align: left; border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden;">
     <thead>
       <tr style="background: rgba(128,128,128,0.1); border-bottom: 2px solid rgba(128,128,128,0.25);">
         <th style="padding: 12px 16px; width: 30%;">Capability / Metric</th>
-        <th style="padding: 12px 16px; width: 25%; background: rgba(0, 113, 227, 0.08); color: #0071e3; font-weight: 700;">VideoPeek</th>
+        <th style="padding: 12px 16px; width: 25%; background: rgba(0, 113, 227, 0.08); color: #0071e3; font-weight: 700;">Video-Peek</th>
         <th style="padding: 12px 16px; width: 25%;">MediaInfo (GUI)</th>
         <th style="padding: 12px 16px; width: 20%;">ffprobe (CLI)</th>
       </tr>
@@ -158,7 +158,7 @@ Most diagnostic utilities are bloated ports. VideoPeek is built exclusively for 
 ## ✨ User Experience Highlights
 
 ### 1. Dual-Drop Compare Mode
-Select two video files in Finder (like your 4K ProRes master and your 1080p H.265 YouTube render) and drag them together onto VideoPeek. The window instantly transitions into a **two-column comparative diff table**, highlighting mismatches in bold amber and identical parameters in calm green.
+Select two video files in Finder (like your 4K ProRes master and your 1080p H.265 YouTube render) and drag them together onto Video-Peek. The window instantly transitions into a **two-column comparative diff table**, highlighting mismatches in bold amber and identical parameters in calm green.
 
 ### 2. Zero VRAM Exhaustion on Massive Master Files
 Thanks to non-blocking stream demuxing, dropping a **120 GB ProRes 4444 XQ feature film master** takes the exact same fraction of a second as opening a **15 MB MP4 screen recording**.
@@ -188,11 +188,11 @@ Stop guessing what is inside your video containers. Verify color gamuts, confirm
 <!-- Question 1 -->
 <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
   <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem; list-style: none;">
-    <span>Does VideoPeek alter or re-encode my video files?</span>
+    <span>Does Video-Peek alter or re-encode my video files?</span>
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    No. VideoPeek operates strictly in <strong>read-only mode</strong>. It inspects container headers and stream format descriptions without modifying or re-encoding a single frame of your footage.
+    No. Video-Peek operates strictly in <strong>read-only mode</strong>. It inspects container headers and stream format descriptions without modifying or re-encoding a single frame of your footage.
   </div>
 </details>
 
@@ -203,29 +203,29 @@ Stop guessing what is inside your video containers. Verify color gamuts, confirm
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    VideoPeek maintains rolling daily logs formatted as <code>videopeek-YYYY-MM-DD.log</code>. You can reveal your log folder directly in Finder anytime by pressing <kbd style="background: rgba(128,128,128,0.15); padding: 2px 6px; border-radius: 4px; font-family: monospace;">⇧ + ⌘ + L</kbd> (or via <strong>Help → Show Logs in Finder</strong>).
+    Video-Peek maintains rolling daily logs formatted as <code>video-peek-YYYY-MM-DD.log</code>. You can reveal your log folder directly in Finder anytime by pressing <kbd style="background: rgba(128,128,128,0.15); padding: 2px 6px; border-radius: 4px; font-family: monospace;">⇧ + ⌘ + L</kbd> (or via <strong>Help → Show Logs in Finder</strong>).
   </div>
 </details>
 
 <!-- Question 3 -->
 <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
   <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem; list-style: none;">
-    <span>Is VideoPeek private?</span>
+    <span>Is Video-Peek private?</span>
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    Yes. VideoPeek is <strong>100% secure</strong>. It contains zero analytics, no telemetry, no tracking, and never makes unauthorized network connections.
+    Yes. Video-Peek is <strong>100% secure</strong>. It contains zero analytics, no telemetry, no tracking, and never makes unauthorized network connections.
   </div>
 </details>
 
 <!-- Question 4 -->
 <details style="border: 1px solid rgba(128,128,128,0.25); border-radius: 8px; overflow: hidden; background: rgba(128,128,128,0.02); transition: all 0.2s ease;">
   <summary style="padding: 14px 18px; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; font-size: 1rem; list-style: none;">
-    <span>Does VideoPeek detect HDR color metadata (HDR10, Dolby Vision, HLG) and Variable Frame Rates (VFR)?</span>
+    <span>Does Video-Peek detect HDR color metadata (HDR10, Dolby Vision, HLG) and Variable Frame Rates (VFR)?</span>
     <span style="font-size: 0.75rem; color: #0071e3; font-weight: 600; background: rgba(0,113,227,0.1); padding: 4px 10px; border-radius: 999px; white-space: nowrap; margin-left: 12px;">+ View Answer ▾</span>
   </summary>
   <div style="padding: 14px 18px 18px 18px; border-top: 1px solid rgba(128,128,128,0.15); font-size: 0.95rem; line-height: 1.6; background: rgba(128,128,128,0.01);">
-    Yes. VideoPeek directly extracts track stream headers to verify color primaries (Rec. 709 vs. Rec. 2020), transfer characteristics (PQ, HLG, Linear), Dolby Vision configuration profiles/levels, and mastering display luminance metadata. It also identifies whether a file uses a Constant Frame Rate (CFR) or Variable Frame Rate (VFR) stream to prevent audio-sync drift in video editing NLEs.
+    Yes. Video-Peek directly extracts track stream headers to verify color primaries (Rec. 709 vs. Rec. 2020), transfer characteristics (PQ, HLG, Linear), Dolby Vision configuration profiles/levels, and mastering display luminance metadata. It also identifies whether a file uses a Constant Frame Rate (CFR) or Variable Frame Rate (VFR) stream to prevent audio-sync drift in video editing NLEs.
   </div>
 </details>
 
