@@ -29,6 +29,7 @@ The native, studio-grade video specification analyzer and side-by-side A-B diff 
     │ Duration 00:02:14.500 [DIFF] 00:02:14.583 (Drift: +2 frames)                                         │
     └──────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
+
 ## 📖 The Product Story
 
 ### *Why we built Video-Peek*
@@ -79,6 +80,7 @@ Video-Peek was created to answer that need. Built from the ground up in 100% nat
     </td>
   </tr>
 </table>
+
 
 ## 🎯 Universal Container & Codec Support
 
