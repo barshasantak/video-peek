@@ -160,7 +160,7 @@ Thanks to non-blocking stream demuxing, dropping a **120 GB ProRes 4444 XQ featu
 
 ## 🚀 Elevate Your Video Mastering & QC Workflow
 
-Stop guessing what is inside your video containers. Verify color gamuts, confirm chroma subsampling, and validate frame-rate parity with pixel-perfect precision.
+Stop guessing what is inside your video containers. Verify color gamuts, confirm chroma subsampling, and validate frame-rate parity with precision.
 
 
 ## 💬 Help & Support
