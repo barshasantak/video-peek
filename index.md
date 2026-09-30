@@ -10,25 +10,11 @@
   
 ### See Beneath the Frame with Video-Peek. 
 The native, studio-grade video specification analyzer and side-by-side A-B diff comparator engineered exclusively for macOS.
-  
-
-    ┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
-    │ 📂 Open Video... │ ⚖️ Compare... │ 💾 Export JSON │ 📋 Copy │ [Report Font: A- 100% A+ ↺] 🔍 Filter  │
-    ├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
-    │ MASTER_PRORES.mov (File A) │ [ ↔ 3 Mismatches ] │ WEB_STREAM.mp4 (File B)                            │
-    │ Format: Apple ProRes 422 HQ (4K) │ Frame Drift: +2 frames │ Format: HEVC / H.265 (1080p)             │
-    ├───────────────────────────────────────┴─────────────────────────┴────────────────────────────────────┤
-    │ [VIDEO STREAM DETAILS]                                                                               │
-    │ Dimensions 3840 × 2160 (4K UHD) [DIFF] 1920 × 1080 (1080p Full HD)                                   │
-    │ Video Codec Apple ProRes 422 (apch) [DIFF] HEVC / H.265 (hvc1)                                       │
-    │ Frame Rate 23.976 fps (Standard) [MATCH] 23.976 fps (Standard)                                       │
-    │ Color Primaries ITU-R BT.2020 (HDR) [DIFF] ITU-R BT.709 (SDR)                                        │
-    │ Transfer Function SMPTE ST 2084 (PQ HDR10) [DIFF] ITU-R BT.709                                       │
-    │ Bit Depth 10-bit [MATCH] 10-bit                                                                      │
-    │ Chroma Subsampling 4:2:2 [DIFF] 4:2:0                                                                │
-    │ Duration 00:02:14.500 [DIFF] 00:02:14.583 (Drift: +2 frames)                                         │
-    └──────────────────────────────────────────────────────────────────────────────────────────────────────┘
-
+<br>
+![Video-Peek-002](https://raw.githubusercontent.com/barshasantak/video-peek/main/Video-Peek-002.png)
+<br>
+![Video-Peek-003](https://raw.githubusercontent.com/barshasantak/video-peek/main/Video-Peek-003.png)
+<br>
 
 ## 📖 The Product Story
 
