@@ -5,7 +5,7 @@
 
 
 ## 🎥 The Hero Section
-![Video-Peek](https://raw.githubusercontent.com/barshasantak/video-peek/main/VideoPeek_256.png)
+![Video-Peek](https://raw.githubusercontent.com/barshasantak/video-peek/main/VideoPeek_128.png)
 <br>
   
 ### See Beneath the Frame with Video-Peek. 
