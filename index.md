@@ -29,7 +29,7 @@ In digital cinema, broadcast mastering, color grading, and streaming delivery, v
 
 We asked a simple question: **What if you had a blazing-fast, visually pristine Mac app that reveals the complete DNA of any video file in under 200 milliseconds?**
 
-Video-Peek was created to answer that need. Built from the ground up in 100% native Swift and SwiftUI, Video-Peek taps directly into Apple’s low-level `CoreMedia`, `AVFoundation`, `VideoToolbox`, and `CryptoKit` frameworks. No web runtimes. No GPU memory exhaustion. Just pure, instant video intelligence.
+Video-Peek was created at **Tara Design Studio** to answer that need. Built from the ground up in 100% native Swift and SwiftUI, Video-Peek taps directly into Apple’s low-level `CoreMedia`, `AVFoundation`, `VideoToolbox`, and `CryptoKit` frameworks. No web runtimes. No GPU memory exhaustion. Just pure, instant video intelligence.
 
 
 ## ⚡ Key Features
